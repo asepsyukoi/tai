@@ -458,6 +458,194 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://thumb9.shutterstock.com/thumb_large/2517880/1023422092/stock-vector-vector-glowing-neon-cinema-festival-banner-film-reel-in-d-isometric-style-on-abstract-night-1023422092.jpg" group-title="MOVIE",Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&amp;key=43852
+##EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&amp;key=43971
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&amp;key=13496
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&amp;key=62334
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/119.png",BeInSport 1 FR
+http://skdn.redi-vo.com/iptv/ch119?code=103131497823984&amp;key=62807
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/120.png",BeInSport 2 FR
+http://skdn.redi-vo.com/iptv/ch120?code=103131497823984&amp;key=38010
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/206.png",BeInSport 3 FR
+http://skdn.redi-vo.com/iptv/ch206?code=103131497823984&amp;key=26341
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
+http://skdn.redi-vo.com/iptv/ch340?code=103131497823984&amp;key=46196
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/341.png",BeInSport Max 5
+http://skdn.redi-vo.com/iptv/ch341?code=103131497823984&amp;key=45618
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/342.png",BeInSport Max 6
+http://skdn.redi-vo.com/iptv/ch342?code=103131497823984&amp;key=61413
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/343.png",BeInSport Max 7
+http://skdn.redi-vo.com/iptv/ch343?code=103131497823984&amp;key=52352
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/344.png",BeInSport Max 8
+http://skdn.redi-vo.com/iptv/ch344?code=103131497823984&amp;key=31483
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
+http://skdn.redi-vo.com/iptv/ch1053?code=138137164006399&amp;key=62639
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
+http://skdn.redi-vo.com/iptv/ch922?code=138137164006399&amp;key=22520
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
+http://skdn.redi-vo.com/iptv/ch937?code=138137164006399&amp;key=57619
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
+http://skdn.redi-vo.com/iptv/ch931?code=138137164006399&amp;key=47032
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
+http://skdn.redi-vo.com/iptv/ch1828?code=138137164006399&amp;key=45498
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
+http://skdn.redi-vo.com/iptv/ch1829?code=138137164006399&amp;key=57494
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
+http://skdn.redi-vo.com/iptv/ch1834?code=138137164006399&amp;key=50740
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1858.png",Front Runner UK
+http://skdn.redi-vo.com/iptv/ch1858?code=138137164006399&amp;key=51144
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1315.png",Rai Sport 1 IT
+http://skdn.redi-vo.com/iptv/ch1315?code=138137164006399&amp;key=56931
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/955.png",SKY Sport 24 IT
+http://skdn.redi-vo.com/iptv/ch955?code=138137164006399&amp;key=24673
+##EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/953.png",SKY Sport Uno IT
+http://skdn.redi-vo.com/iptv/ch953?code=138137164006399&amp;key=55431
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/954.png",SKY Sport Serie A IT
+http://skdn.redi-vo.com/iptv/ch954?code=138137164006399&amp;key=16382
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1910.png",Sky Sport Football IT
+http://skdn.redi-vo.com/iptv/ch1910?code=138137164006399&amp;key=18976
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1933.png",Sport Italia IT
+http://skdn.redi-vo.com/iptv/ch1933?code=138137164006399&amp;key=32845
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/993.png",Motor Trend IT
+http://skdn.redi-vo.com/iptv/ch993?code=138137164006399&amp;key=42448
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/994.png",Zelig Sport IT
+http://skdn.redi-vo.com/iptv/ch994?code=138137164006399&amp;key=13779
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1544.png",Super Tennis IT
+http://skdn.redi-vo.com/iptv/ch1544?code=138137164006399&amp;key=33560
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/6523.png",Eleven Sport 4 Cy
+http://skdn.redi-vo.com/iptv/ch6523?code=138137164006399&amp;key=23500
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/4527.png",Canal+ Sport Cy
+http://skdn.redi-vo.com/iptv/ch4527?code=138137164006399&amp;key=39502
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1203.png",LaLiga TV Bar 1
+http://skdn.redi-vo.com/iptv/ch1203?code=138137164006399&amp;key=10016
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1281.png",M.L. Campeones HD SP
+http://skdn.redi-vo.com/iptv/ch1281?code=138137164006399&amp;key=32884
+#EXTINF:-1 group-title="SPORT NEW"-logo="http://logo.ddnb.tn/logochanel/1282.png",La Liga 123 HD SP
+http://skdn.redi-vo.com/iptv/ch1282?code=138137164006399&amp;key=35537
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1286.png",LaLiga TV Bar
+http://skdn.redi-vo.com/iptv/ch1286?code=138137164006399&amp;key=21942
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1220.png",Bein Sport SPANA
+http://skdn.redi-vo.com/iptv/ch1220?code=138137164006399&amp;key=25450
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1223.png",Real Madrid CH.
+http://skdn.redi-vo.com/iptv/ch1223?code=138137164006399&amp;key=47675
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1225.png",Barca Tv
+http://skdn.redi-vo.com/iptv/ch1225?code=138137164006399&amp;key=64018
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1226.png",Movistar Toros
+http://skdn.redi-vo.com/iptv/ch1226?code=138137164006399&amp;key=15504
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1208.png",TELE DEPORTE SP
+http://skdn.redi-vo.com/iptv/ch1208?code=138137164006399&amp;key=60635
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1202.png",Eurosport 1
+http://skdn.redi-vo.com/iptv/ch1202?code=138137164006399&amp;key=17418
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1228.png",Canal Panda SP
+http://skdn.redi-vo.com/iptv/ch1228?code=138137164006399&amp;key=33487
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1229.png",Neox SP
+http://skdn.redi-vo.com/iptv/ch1229?code=138137164006399&amp;key=58268
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD SP
+http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&amp;key=11345
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
+http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&amp;key=47444
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
+http://skdn.redi-vo.com/iptv/ch3522?code=138137164006399&amp;key=12157
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
+http://skdn.redi-vo.com/iptv/ch3525?code=138137164006399&amp;key=51646
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
+http://skdn.redi-vo.com/iptv/ch3523?code=138137164006399&amp;key=54617
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
+http://skdn.redi-vo.com/iptv/ch3524?code=138137164006399&amp;key=24582
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
+http://skdn.redi-vo.com/iptv/ch3526?code=138137164006399&amp;key=38701
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
+http://skdn.redi-vo.com/iptv/ch3521?code=138137164006399&amp;key=61270
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
+http://skdn.redi-vo.com/iptv/ch3518?code=138137164006399&amp;key=21916
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
+http://skdn.redi-vo.com/iptv/ch3517?code=138137164006399&amp;key=50778
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
+http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&amp;key=50917
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
+http://skdn.redi-vo.com/iptv/ch3515?code=138137164006399&amp;key=40035
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch3513?code=138137164006399&amp;key=30356
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch3514?code=138137164006399&amp;key=23881
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
+http://skdn.redi-vo.com/iptv/ch3512?code=138137164006399&amp;key=16615
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
+http://skdn.redi-vo.com/iptv/ch3511?code=138137164006399&amp;key=54244
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
+http://skdn.redi-vo.com/iptv/ch3510?code=138137164006399&amp;key=60519
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/867.png",Fox sport 1
+http://skdn.redi-vo.com/iptv/ch867?code=138137164006399&amp;key=62019
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/880.png",Fox sport 3
+http://skdn.redi-vo.com/iptv/ch880?code=138137164006399&amp;key=48133
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1862.png",Fox Sport 5
+http://skdn.redi-vo.com/iptv/ch1862?code=138137164006399&amp;key=33238
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1863.png",Fox Sport 6
+http://skdn.redi-vo.com/iptv/ch1863?code=138137164006399&amp;key=59444
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3586.png",Ziggo NL
+http://skdn.redi-vo.com/iptv/ch3586?code=138137164006399&amp;key=35409
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/878.png",Ziggo Sport Voetball
+http://skdn.redi-vo.com/iptv/ch878?code=138137164006399&amp;key=53667
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1879.png",Ziggo Sport Golf
+http://skdn.redi-vo.com/iptv/ch1879?code=138137164006399&amp;key=14362
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1867.png",Ziggo Sport Extra
+http://skdn.redi-vo.com/iptv/ch1867?code=138137164006399&amp;key=50232
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1866.png",Ziggo Sport Doc.
+http://skdn.redi-vo.com/iptv/ch1866?code=138137164006399&amp;key=31666
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3585.png",Ziggo Sport Racing NL
+http://skdn.redi-vo.com/iptv/ch3585?code=138137164006399&amp;key=57561
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/860.png",Ziggo Sport Select
+http://skdn.redi-vo.com/iptv/ch860?code=138137164006399&amp;key=24851
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1969.png",Eurosport 1 NL
+http://skdn.redi-vo.com/iptv/ch1969?code=138137164006399&amp;key=38198
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/3549.png",Eurosport 2 NL
+http://skdn.redi-vo.com/iptv/ch3549?code=138137164006399&amp;key=17867
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=138137164006399&amp;key=44118
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2366.png",Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=138137164006399&amp;key=29705
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1353.png",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=138137164006399&amp;key=31156
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2355.png",BeinSport 2 TR
+http://skdn.redi-vo.com/iptv/ch2355?code=138137164006399&amp;key=15735
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2356.png",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=138137164006399&amp;key=44129
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2360.png",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=138137164006399&amp;key=19535
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2358.png",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=138137164006399&amp;key=41059
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=138137164006399&amp;key=29388
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=138137164006399&amp;key=18337
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=138137164006399&amp;key=10226
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=138137164006399&amp;key=18724
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/823.png",KSA SPORT 1
+http://skdn.redi-vo.com/iptv/ch823?code=138137164006399&amp;key=44583
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/824.png",KSA SPORT 2
+http://skdn.redi-vo.com/iptv/ch824?code=138137164006399&amp;key=38478
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/825.png",KSA SPORT +1
+http://skdn.redi-vo.com/iptv/ch825?code=138137164006399&amp;key=17779
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/826.png",KSA SPORT +2
+http://skdn.redi-vo.com/iptv/ch826?code=138137164006399&amp;key=42093
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/122.png",AD Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch122?code=138137164006399&amp;key=21973
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/603.png",AD Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch603?code=138137164006399&amp;key=53427
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/5519.png",AD Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch5519?code=138137164006399&amp;key=18357
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/5520.png",AD Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch5520?code=138137164006399&amp;key=41241
+#EXTINF:-1 group-title="SPORT NEW"tvg-logo="http://logo.ddnb.tn/logochanel/183.png",Nile Sport
+http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&amp;key=23703
+
  
 #EXTINF:-1 group-title="SPORT",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
@@ -866,224 +1054,7 @@ https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="SKYNET SPORTS", Skynetsport6 MY
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
- 
-#EXTINF:-1 group-title="SPORT BACKUP", SPORT ITALIA (IT)
-http://ok2.se:80/d094F7UgfougTCE88/2c45F9Uq6EtuPMJXp/79809
-#EXTINF:-1 group-title="SPORT BACKUP", SPORT TV 1HD (PT)
-http://ok2.se:80/d094F7UgfougTCE88/2c45F9Uq6EtuPMJXp/4643
-#EXTINF:-1 group-title="SPORT BACKUP", SPORT TV 2HD (PT) LIGA INGGRIS
-http://ok2.se:80/d094F7UgfougTCE88/2c45F9Uq6EtuPMJXp/4647
-#EXTINF:-1 group-title="SPORT BACKUP", SPORT TV 3HD (PT) LIGA ITALIA
-http://ok2.se:80/d094F7UgfougTCE88/2c45F9Uq6EtuPMJXp/4646
-#EXTINF:-1 group-title="SPORT BACKUP", SPORT TV 4HD (PT)
-http://ok2.se:80/d094F7UgfougTCE88/2c45F9Uq6EtuPMJXp/4645
-#EXTINF:-1 group-title="SPORT BACKUP", SPORT TV 5HD (PT)
-http://ok2.se:80/d094F7UgfougTCE88/2c45F9Uq6EtuPMJXp/4644
-#EXTINF:-1 group-title="SPORT BACKUP", PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", PremierHD3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", PremierHD4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", PremierHD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", Bein1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", Bein2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", True Sport HD4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", Fox Sport1 MY
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", Fox Sport2 MY
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", Fox Sport3 MY
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", NBA HD MY
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", NFLNetwork
-https://www.livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP", Golf HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",BEIN SPORT 1HD TH2
-http://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",BEIN SPORT 2HD TH2
-http://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",FOX SPORTS HD TH2
-http://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",FOX SPORTS 2 TH2
-http://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",FOX SPORTS 3 TH2
-http://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",OLYMPIC CHANNEL 1
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",OLYMPIC CHANNEL 2
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",OLYMPIC CHANNEL 3
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",OLYMPIC CHANNEL 4
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",OLYMPIC CHANNEL 5
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",SKYNETSPORT HD
-http://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT BACKUP",BTSPORT 1
-http://sportbox.ws/lba/MjAwZDUyYmYwMzhiZjZjZTFiYWM4NzM3YzE2ZTQ5YzM=/g2/btuk1.m3u8?token=MjAwZDUyYmYwMzhiZjZjZTFiYWM4NzM3YzE2ZTQ5YzM=&id=ZmE2YzhhZjk3NmZlYjc5NTRhYmY4YTczYWRiMDBkNWE=&vip=1574769335&dip=MDc3Y2U2YWEyMjIyM2QyZGYwYTQ5MmJmYzM2NzFhYjY=&pip=49.49.208.63&hip=YzA4MzhhMjhkYjE3YWFkMGE4YWExMWM4NzU4ZDQ4ZTc=
-#EXTINF:-1 group-title="SPORT BACKUP",BTSPORT 3
-http://goool7.ws/lba/ZDRmM2IxODI1N2ViMmVkOWY2OGI3ZTgyNTA5MGQxZGE=/g2/3btsporteu.m3u8?token=ZDRmM2IxODI1N2ViMmVkOWY2OGI3ZTgyNTA5MGQxZGE=&id=ZmU4NTk2ODQzYzU3NDMzMjIyOTQ4NmQyNjRhZmUzZmY=&vip=1574769513&dip=YzU0YTJkY2ZlZGI2NjI5MGI5ODc1YmExMjBmNGU1ZmU=&pip=49.49.208.63&hip=YzA4MzhhMjhkYjE3YWFkMGE4YWExMWM4NzU4ZDQ4ZTc=
 
-
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31927
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 1 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31926
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 2 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31925
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 3 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31924
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 4 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31923
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 5 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31922
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 6 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31921
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 7 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31920
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 8 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31919
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 9 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31918
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 10 SD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/31917
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS NEWS
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/16394
-#EXTINF:-1 group-title="BEIN SPORT",|BEIN| BEINSPORTS HD AR
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/3882
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 1 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/4412
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 2 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/23358
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 3 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/189
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 4 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/266
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 5 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/267
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 6 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/268
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 7 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/269
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 8 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/8
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 9 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/9
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 10 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/18429
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 11 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/17088
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 12 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/17087
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 13 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/17086
-#EXTINF:-1 group-title="BEIN SPORT",BEINSPORTS 14 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/17085
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 15 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/23508
-#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 16 HD
-http://nbr1.co:8000/SSazizIPTVzakaria60/ilEs3WTjUX/23507 
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 2 BKP
-http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/4.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 2 HD
-http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/3.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 2 BKP
-http://iptv2.premium-stv.com:8888/live/BEIN2/6hGJ%5E8Jvfc3u2qfyY)V39cN3/4.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 3 HD
-http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ%5E8J2qfvuyY/5.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 3 BKP
-http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ%5E8J2qfvuyY/6.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 4 HD
-http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/28.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 4 BKP
-http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/8.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 5 HD
-http://iptv2.premium-stv.com:8888/live/beIN05SPORT/HHTFuufgyKK/9.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 5 BKP
-http://185.23.213.162:8789/live/ania/ania/13679.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 6 HD
-http://iptv2.premium-stv.com:8888/live/beIN06/KJGiuBJJLKgk/11.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 6 BKP
-http://185.23.213.162:8789/live/ania/ania/13677.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 7 HD
-http://iptv2.premium-stv.com:8888/live/beIN07/hjjf5E8J2qfvuyYcHUULg/13.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 7 BKP
-http://185.23.213.162:8789/live/ania/ania/13675.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 8 HD
-http://185.23.213.162:8789/live/ania/ania/13674.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 8 BKP
-http://185.23.213.162:8789/live/ania/ania/13673.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 9 HD
-http://185.23.213.162:8789/live/ania/ania/13672.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 9 BKP
-http://185.23.213.162:8789/live/ania/ania/13587.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEINSPORT 10 HD
-http://185.23.213.162:8789/live/ania/ania/13670.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 2 FHD
-http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/26.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 3 FHD
-http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ%5E8J2qfvuyY/27.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 5 FHD
-http://iptv2.premium-stv.com:8888/live/beIN05SPORT/HHTFuufgyKK/29.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 6 FHD
-http://iptv2.premium-stv.com:8888/live/beIN06/KJGiuBJJLKgk/32.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 7 FHD
-http://iptv2.premium-stv.com:8888/live/beIN07/hjjf5E8J2qfvuyYcHUULg/33.ts
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 8 FHD
-http://185.23.213.162:8789/live/ania/ania/13604.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEIN SPORTS 9 FHD
-http://185.23.213.162:8789/live/ania/ania/13603.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|AR| BEINSPORT 10 FHD
-http://185.23.213.162:8789/live/ania/ania/13602.m3u8
-#EXTINF:-1 tvg-ID="4K" tvg-name="BEIN_4K" tvg-logo="http://universeiptv.org/pics/bein-4k.png" group-title="BEIN SPORT",BEIN_4K BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/33321
-#EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_HD" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN SPORT",BEIN_SPORT_1_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/858
-#EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN_SPORT_2_HD" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN SPORT",BEIN_SPORT_2_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/859
-#EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN_SPORT_3_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN SPORT",BEIN_SPORT_3_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/860
-#EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN_SPORT_4_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN SPORT",BEIN_SPORT_4_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/861
-#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN_SPORT_5_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN SPORT",BEIN_SPORT_5_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/862
-#EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN_SPORT_6_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN SPORT",BEIN_SPORT_6_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/863
-#EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN_SPORT_7_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN SPORT",BEIN_SPORT_7_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/864
-#EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN_SPORT_8_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN SPORT",BEIN_SPORT_8_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/865
-#EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN_SPORT_9_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN SPORT",BEIN_SPORT_9_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/866
-#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="BEIN_SPORT_10_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN SPORT",BEIN_SPORT_10_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/867
-#EXTINF:-1 tvg-ID="SportsHD11" tvg-name="BEIN_SPORT_11_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN SPORT",BEIN_SPORT_11_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/3026
-#EXTINF:-1 tvg-ID="SportsHD12" tvg-name="BEIN_SPORT_12_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN SPORT",BEIN_SPORT_12_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/3027
-#EXTINF:-1 tvg-ID="SportsHD13" tvg-name="BEIN_SPORT_13_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_13_hd.png" group-title="BEIN SPORT",BEIN_SPORT_13_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/13
-#EXTINF:-1 tvg-ID="SportsHD14" tvg-name="BEIN_SPORT_14_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_14_hd.png" group-title="BEIN SPORT",BEIN_SPORT_14_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/14
-#EXTINF:-1 tvg-ID="SportsHD15" tvg-name="BEIN_SPORT_15_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_15_hd.png" group-title="BEIN SPORT",BEIN_SPORT_15_HD BACKUP
-http://universe-ip.com:8000/aymanalfy/canadanewyear/15
- 
  
 #EXTINF:-1 group-title="FEED Sport", MKC Feed 1
 https://172-105-122-8.nanostreaming.tech:8080/stream01/index.m3u8
